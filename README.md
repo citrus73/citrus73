@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @citrus73.
-- 👀 I’m interested in reading books and listening to music.
-- 🌱 I’m currently learning the Vue framework, learning JavaScript and Typescript languages, although they are a bit difficult for me.
-- 😄 If you are interested in my studies, you can follow me.
-- ⚡ Fun fact: In addition, I am also interested in books and movies related to reasoning.
+- 👀 In my daily life, I prefer reading books and listening to music, which helps me relax.
+- 🌱 I am currently concentrating on learning the Vue framework and also continuously studying the programming languages JavaScript and TypeScript, although they are a bit difficult for me.
+- 😄 If you are interested in my learning journey, feel free to follow me.
+- ⚡ Fun fact: In addition, I'm also fascinated by mystery books and films that always stimulate my thinking and curiosity.
 
 <!---
 citrus73/citrus73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
